@@ -1,13 +1,14 @@
 {
     "version": "1.0.0",
+    "schema_version": "1.0.0",
     "data": [
         {
-            "id": "my_tool",
+            "id": "easy_transfer_blender",
             "version": "1.0.0",
-            "name": "My Tool",
+            "name": "EasyTransfer",
             "type": "add-on",
-            "archive_url": "https://github.com/.../release.zip",
-            "blender_version_min": "4.2.0"
+            "archive_url": "https://github.com/Tao-Weijie/EasyTransfer/tree/main/easy_transfer_blender",
+            "blender_version_min": "4.5.0"
         }
     ]
 }
