@@ -1,0 +1,13 @@
+{
+    "version": "1.0.0",
+    "data": [
+        {
+            "id": "my_tool",
+            "version": "1.0.0",
+            "name": "My Tool",
+            "type": "add-on",
+            "archive_url": "https://github.com/.../release.zip",
+            "blender_version_min": "4.2.0"
+        }
+    ]
+}
