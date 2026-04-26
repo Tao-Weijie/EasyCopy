@@ -12,9 +12,9 @@ using Rhino.PlugIns;
 [assembly: PlugInDescription(DescriptionType.Country, "")]
 [assembly: PlugInDescription(DescriptionType.WebSite, "")]
 [assembly: PlugInDescription(DescriptionType.UpdateUrl, "https://github.com/Tao-Weijie/EasyTransfer")]
-[assembly: PlugInDescription(DescriptionType.Icon, "EasyTransfer.Resources.projectIcon.ico")]
+[assembly: PlugInDescription(DescriptionType.Icon, "EasyTransfer.Components.Resources.projectIcon.ico")]
 
-[assembly: AssemblyTitle("EasyTransfer")]
+[assembly: AssemblyTitle("EasyTransfer.Components")]
 [assembly: AssemblyDescription("Seamlessly transfer geometry between Rhino and Blender")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("EasyTransfer")]

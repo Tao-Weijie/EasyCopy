@@ -1,6 +1,6 @@
 ---
 name: EasyTransfer
-version: 0.1.3+9557
+version: 0.2.1+9613
 authors:
 - Weijie Tao
 description: Seamlessly transfer geometry between Rhino and Blender

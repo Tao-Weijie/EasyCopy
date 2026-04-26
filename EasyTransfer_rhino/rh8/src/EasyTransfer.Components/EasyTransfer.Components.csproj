@@ -1,10 +1,10 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <TargetExt>.rhp</TargetExt>
+    <TargetExt>.gha</TargetExt>
     <TargetFramework>net48</TargetFramework>
     <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
     <GenerateTargetFrameworkAttribute>false</GenerateTargetFrameworkAttribute>
-    <AssemblyName>EasyTransfer</AssemblyName>
+    <AssemblyName>EasyTransfer.Components</AssemblyName>
     <AssemblyVersion>0.2.1.9613</AssemblyVersion>
   </PropertyGroup>
 
